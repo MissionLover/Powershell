@@ -1,1 +1,0 @@
-Out-File -FilePath C:\test.txt -InputObject "Hello World"
